@@ -202,7 +202,7 @@ spatial relationships.
 
 
 Source: [USA Today,
-2020]https://www.usatoday.com/in-depth/graphics/2020/11/10/election-maps-2020-america-county-results-more-voters/6226197002/#mainContentSection)
+2020](https://www.usatoday.com/in-depth/graphics/2020/11/10/election-maps-2020-america-county-results-more-voters/6226197002/#mainContentSection)
 
 How does this map compare to the previous map?
 
