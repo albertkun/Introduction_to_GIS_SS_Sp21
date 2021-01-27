@@ -165,14 +165,12 @@ units. Such as number of people living in a specific city or the
 language spoken in a country. Thusly, most of the data we will encounter
 will be discrete.
 
-Another common example is the following election result map which shows
-the number of people from each state that voted for either Clinton or
-Trump in the 2016 general election.
+Another common example is the following election result map which shows the number of people from each state that voted for either Biden or Trump in the 2020 general election.
 
-![](./media/image4.png)
+![](./media/image2021_1.png)
 
 Source: [New York Times,
-2016](https://www.nytimes.com/elections/2016/results/president)
+2020](https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html)
 
 The states themselves are the boundaries, even though the data is
 collected at smaller levels.
@@ -200,19 +198,19 @@ larger geographic relation. Let's return to the election map above, but
 break it down into counties to see how the summing of the data changed
 spatial relationships.
 
-![](./media/image5.png)
+![](./media/image2021_2.png)
+
+
+Source: [USA Today,
+2020]https://www.usatoday.com/in-depth/graphics/2020/11/10/election-maps-2020-america-county-results-more-voters/6226197002/#mainContentSection)
 
 How does this map compare to the previous map?
 
-![](./media/image4.png)
+![](./media/image2021_1.png)
 
-For one thing, you can see that a state like Arizona is not completely
-red and has quite a bit of democratic voters. This is possible, because
-the geographic hierarchy is preserved when the data from the counties is
-summarized to the state level.
+For one thing, you can see that a state like Nevada is not completely blue and has quite a bit of Republican voters. When a whole state is considered “democrat” or blue, such types of simplifications can only occur when data from the counties is summarized upwards to the state level.
 
-Below is an example of how the United States Census Bureau has developed
-a hierarchal geography:
+Below is an example of how the United States Census Bureau’s uses hierarchal geography: 
 
 ![](./media/image6.png)
 
